@@ -1,4 +1,4 @@
-"""Additional CI configuration, using the starlark language. See
+"Additional CI configuration, using the starlark language. See
 https://cirrus-ci.org/guide/programming-tasks/#introduction-into-starlark
 
 See also the starlark specification at
